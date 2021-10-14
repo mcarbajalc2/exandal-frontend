@@ -47,7 +47,9 @@
                 "singleQuote": true,
                 "trailingComma": "none",
                 "tabWidth": 4,
-                "useTabs": false
+                "useTabs": false,
+                "error": {
+                    "endOfLine": "auto"                }
             }
         ]
     }
